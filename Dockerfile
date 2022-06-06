@@ -1,4 +1,4 @@
-FROM node:14.16.1-slim
+FROM node:18.3.0-slim
 
 ENV USER=evobot
 
